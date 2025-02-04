@@ -1,0 +1,20 @@
+name: airpack
+channels:
+  - conda-forge
+  - nvidia
+  - defaults
+  - file://opt/deepwave/conda-channels/airstack-drivers
+  - file://opt/deepwave/conda-channels/airstack-nvidia
+
+dependencies:
+  - airstack-soapy
+  - airstack-tensorrt
+  - ipython
+  - matplotlib
+  - numpy
+  - scipy
+  - pip
+  - python=3.6
+  - pip:
+    - onnxruntime_gpu-1.10.0-cp36-cp36m-linux_aarch64.whl
+    - pycuda

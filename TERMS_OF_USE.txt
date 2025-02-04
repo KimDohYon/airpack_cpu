@@ -1,0 +1,120 @@
+DEEPWAVE DIGITAL INC SOFTWARE SOURCE CODE TERMS OF USE
+
+This terms of use document (the “Agreement”) sets forth the terms and conditions for licensing and 
+use of Product Source Code (the “Software”) from Deepwave Digital, Inc (“Licensor”) to you 
+(“Licensee”).
+
+In the event the Licensor provides the Licensee accompanying data or a data set ("Data") for use in
+conjunction with the Software, the Data is licensed pursuant to the software license agreement 
+provided with the Data and excluded from this Agreement.
+
+EACH TIME YOU USE THE SOFTWARE, YOU ARE ACCEPTING THIS AGREEMENT. IF YOU DO NOT AGREE TO THE 
+AGREEMENT, THE LICENSOR IS UNWILLING TO GRANT YOU THE RIGHT TO USE THE SOFTWARE, AND YOU MUST CEASE 
+USE OF THE SOFTWARE IMMEDIATELY. 
+
+
+1. TERMS
+
+1.1 Licensor grants Licensee a non‐exclusive, transferable (as outlined in this Agreement) license 
+to use source code in projects to be distributed in a compiled binary format.
+
+1.2 Licensor does not grant the Licensee right to use, distribute, or display trademarks, 
+servicemarks, copyrighted materials, or intellectual property in public displays unless ownership 
+by the Licensor is made obvious and apparent, and with appropriate permission from Licensor.
+
+1.3 Source code, whether whole or in part, may not be distributed outside of Licensee’s 
+organization.
+
+
+2. TERM AND TERMINATION
+
+2.1 Licensor retains the right to terminate this Agreement at any time and for any cause with thirty
+(30) days written notice to Licensee.
+
+2.2 This Agreement is in effect as long as Licensee holds any copy of the Source Code on any 
+Licensee computer or storage media either onsite or offsite.
+
+2.3 Upon termination or expiration of this Agreement for any reason whatsoever, Licensee shall 
+immediately: (i) cease all use of the Software; and (ii) make all reasonable efforts to destroy and/
+or remove all copies of the Software from Licensee computers and storage media.
+
+3. LIMITATIONS OF LIABILITIES
+
+3.1 Usage. Your use of, or inability to use, the Software is at your sole risk. THE LICENSOR MAKES NO 
+WARRANTY ABOUT THE ACCURACY OR QUALITY OF THE SOFTWARE AND DO NOT GUARANTEE, REPRESENT, OR WARRANT 
+THAT YOUR USE OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE. 
+
+3.2 Disclaimer. EXCEPT AS EXPLICITLY PROVIDED HEREIN, ALL SOFTWARE IS PROVIDED “AS IS” AND NEITHER 
+PARTY MAKES ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTY OF NON-
+INFRINGEMENT, ACCURACY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+3.3 Exclusion of Remedies. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INCIDENTAL, 
+INDIRECT, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, REGARDLESS OF THE NATURE OF THE CLAIM, 
+INCLUDING LOST PROFITS, COSTS OF DELAY, ANY FAILURE OF DELIVERY, BUSINESS INTERRUPTION, COSTS OF 
+LOST OR DAMAGED DATA OR LIABILITIES TO THIRD PARTIES ARISING FROM ANY SOURCE, EVEN IF SUCH OTHER 
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+3.4 General Disclaimer. YOU EXPRESSLY UNDERSTAND AND AGREE THAT  THE LICENSOR SHALL NOT BE LIABLE 
+TO YOU UNDER ANY THEORY OF LIABILITY (REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, TORT
+(INCLUDING NEGLIGENCE AND STRICT LIABILITY), WARRANTY, OR OTHERWISE) FOR ANY DIRECT, INDIRECT, 
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR 
+USE OF THE SOFTWARE, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT THE LICENSOR OR ITS REPRESENTATIVES, 
+HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. YOU 
+ALSO EXPRESSLY UNDERSTAND AND AGREE THAT THE LICENSOR SHALL NOT BE LIABLE TO YOU UNDER ANY THEORY 
+OF LIABILITY (REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE 
+AND STRICT LIABILITY), WARRANTY, OR OTHERWISE) FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE SOFTWARE, INCLUDING ANY 
+LOSS OF DATA, WHETHER OR NOT THE LICENSOR HAS BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE 
+POSSIBILITY OF ANY SUCH LOSSES ARISING. You agree to indemnify, defend, and hold the Licensor 
+harmless with respect to any claims arising out of or relating to your unauthorized use of the 
+Software.
+
+3.5 Licensee will handle and be responsible for all warranty returns from its End-Users or 
+Resellers.
+
+
+4. LEGAL COMPLIANCE
+Licensee acknowledges that the Software and the technical documents received from Licensor in
+accordance with the terms hereunder may be subject to United States export and import controls, and 
+in the performance of its obligations, Licensee shall at all times strictly comply with all laws, 
+regulations and orders, and agrees to commit no act which, directly or indirectly, would violate 
+any United States or other countries’, regulations or orders.
+
+
+5. GENERAL TERMS; MISCELLANEOUS
+
+5.1 Applicable Law. The validity, interpretation, construction and performance of this License, and 
+all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall
+be governed, construed and interpreted in accordance with the laws of the state of Delaware, without
+giving effect to principles of conflicts of law.
+
+5.2 Notice. For contractual purposes, you: (i) consent to receive communications in an electronic 
+form and (ii) agree that all terms and conditions, agreements, notices, documents, disclosures, and 
+other communications (“Communications”) that the Licensor provides to you electronically satisfy any
+legal requirement that such Communications would satisfy if they were in writing. Your consent to 
+receive Communications and do business electronically, and our agreement to do so, applies to all of
+your interactions and transactions under this License.
+
+5.3 Waiver. The failure of either party to insist upon or enforce strict performance by the other 
+party of any provision of this License or to exercise any right under this License will not be 
+construed as a waiver of such party's right to assert or rely upon any such provision or right in 
+that or any other instance; rather, the same will be and remain in full force and effect.
+
+5.4 Entire Agreement. This License is the final, complete and exclusive agreement of the parties 
+with respect to the subject matter hereof and supersedes and merges all prior discussions between 
+the parties with respect thereto.
+
+5.5 Amendment. Your rights and obligations under this License may be amended or modified from time 
+to time and at any time. If any such amendment or modification is material, The Licensor will post 
+notice of it on the Licensor’s website or by email to licensed users. Your access of the Licensor’s 
+website and use of the Software following any such amendment or modification shall be deemed your 
+acceptance of such amendment and modification. You agree to review this License periodically to be 
+aware of such amendments and modifications.
+
+5.6 Construction. Unless otherwise specifically stated the word “including” will not be construed as
+terms of limitation, and will mean “including without limitation”.
+
+5.7 Severability. If any provision of this License will be held to be invalid, illegal or 
+unenforceable, the validity, legality and enforceability of the remaining provisions will in no way 
+be affected or impaired thereby, and the parties will substitute for the affected portion an 
+enforceable provision which closest approximates the intent and the economic effect thereof.

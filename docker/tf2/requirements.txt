@@ -1,0 +1,10 @@
+click~=8.0
+matplotlib==3.3.4
+scipy>=1.2.0
+keras2onnx==1.7.0
+onnxruntime==1.10.0
+onnxruntime-gpu==1.10.0
+onnx~=1.10.0
+pycuda
+pytest
+netron

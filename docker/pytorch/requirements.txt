@@ -1,0 +1,12 @@
+click~=8.0
+matplotlib==3.3.4
+scipy>=1.2.0
+onnxruntime==1.10.0
+onnx~=1.10.0
+pytest
+netron
+torchinfo~=1.5
+tqdm
+torch
+protobuf==3.20.3
+numpy==1.19.5

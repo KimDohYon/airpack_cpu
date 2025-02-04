@@ -1,0 +1,134 @@
+DEEPWAVE DIGITAL INC DATA SET LICENSE AGREEMENT
+
+The data or data set (“Data”) that you ("Licensee") are licensing is created and maintained by
+Deepwave Digital, Inc (“Company”). Licensee use of the Data is governed by this Data License the
+(“License”), which constitutes a binding legal agreement between Licensee and the Company.
+
+EACH TIME LICENSEE USES THE DATA, LICENSEE IS ACCEPTING THIS LICENSE. IF LICENSEE DOES NOT AGREE TO
+THE LICENSE, THE COMPANY IS UNWILLING TO GRANT LICENSEE THE RIGHT TO USE THE DATA, AND LICENSEE
+MUST CEASE USE OF THE DATA IMMEDIATELY.
+
+
+1. LICENSE
+
+1.1 License. Company grants Licensee a non-exclusive, non-transferrable, right and license to use,
+reproduce, perform, display, modify, create derivative works of, and reformat (“Use”) the Data for 
+Licensee's internal use. Licensee may not distribute or make the Data available to any other third
+party.
+
+1.2 Security. Licensee will protect the Data with the same level of security measures that Licensee
+uses to protect their own data, but no less than reasonable measures. By way of example, this
+includes measures like keeping Licensee's password private.
+
+1.3 Ownership. Company owns and retains all proprietary rights in the Data. The Data may contain 
+copyrighted material and other proprietary information of the Company. The provision of the Data 
+does not transfer to Licensee or any third party any rights, title or interest in or to such
+intellectual
+property, including, without limitation, any intellectual property rights in any Company or third-
+party content.
+
+
+2. DATA SUBSCRIPTIONS
+
+2.1 Fees. If the Data is provided for a fee, Licensee agrees to pay such amounts and fees in
+accordance with the processes and procedures set forth in the Company terms. All fees will be non-
+refundable.
+
+2.2 Payment. The Company may suspend Licensee's access to the Data or the provision of updates to
+Licensee in the event of Licensee's non-payment.
+
+
+3. LIMITATIONS OF LIABILITIES
+
+3.1 Usage. Licensee's use of, or inability to use, the Data is at Licensee's sole risk. THE COMPANY
+MAKES NO WARRANTY ABOUT THE ACCURACY OR QUALITY OF THE DATA AND DO NOT GUARANTEE, REPRESENT, OR
+WARRANT THAT LICENSEE'S USE OF THE DATA WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+3.2 Disclaimer. EXCEPT AS EXPLICITLY PROVIDED HEREIN, ALL DATA IS PROVIDED “AS IS” AND NEITHER PARTY
+MAKES ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTY OF NON-INFRINGEMENT, 
+ACCURACY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+3.3 Exclusion of Remedies. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INCIDENTAL, 
+INDIRECT, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, REGARDLESS OF THE NATURE OF THE CLAIM, 
+INCLUDING LOST PROFITS, COSTS OF DELAY, ANY FAILURE OF DELIVERY, BUSINESS INTERRUPTION, COSTS OF 
+LOST OR DAMAGED DATA OR LIABILITIES TO THIRD PARTIES ARISING FROM ANY SOURCE, EVEN IF SUCH OTHER 
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+3.4 General Disclaimer. LICENSEE EXPRESSLY UNDERSTANDS AND AGREES THAT  THE COMPANY SHALL NOT BE
+LIABLE TO LICENSEE UNDER ANY THEORY OF LIABILITY (REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON
+CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), WARRANTY, OR OTHERWISE) FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY LICENSEE
+THROUGH LICENSEE'S USE OF THE DATA, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT THE COMPANY OR ITS
+REPRESENTATIVES, HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH
+LOSSES ARISING. LICENSEE ALSO EXPRESSLY UNDERSTANDS AND AGREES THAT THE COMPANY SHALL NOT BE LIABLE
+TO LICENSEE UNDER ANY THEORY OF LIABILITY (REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT,
+TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), WARRANTY, OR OTHERWISE) FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY LICENSEE THROUGH
+Licensee's USE OF THE DATA, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT THE COMPANY HAS BEEN ADVISED
+OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. You agree to indemnify,
+defend, and hold the Company harmless with respect to any claims arising out of or relating to
+Licensee's unauthorized use of the Data.
+
+3.5 Essential Basis. The disclaimers, exclusions and limitations of liability set forth in this 
+License form an essential basis of the bargain between Licensee and the Company, and, absent any of
+such disclaimers, exclusions or limitations of liability, the provisions of this License, including
+the economic terms, would be substantially different.
+
+
+4. TERMINATION.
+
+4.1 Termination by Licensee. If Licensee wishs to terminate this License, Licensee should notify the
+Company in writing.
+
+4.2 Termination for Breach. The Company reserves the right to immediately terminate this License in 
+the event it reasonably determines that Licensee has breached the License.
+
+4.3 Suspension. The Company may suspend Licensee access to the data if Licensee is in breach of this
+License. The Company may suspend Licensee's use of the Data in the event the Data detrimentally
+impacts other users who have purchased the Data, determined at the Company’s sole discretion.
+
+4.4 Survival. Sections 1.3, 3, 4.4, and 5 will survive the expiration or termination of this 
+License. Upon termination, Licensee will delete all copies of the Data in Licensee's possession.
+
+
+5. GENERAL TERMS; MISCELLANEOUS.
+
+5.1 Applicable Law. The validity, interpretation, construction and performance of this License, and 
+all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall
+be governed, construed and interpreted in accordance with the laws of the state of Delaware, without
+giving effect to principles of conflicts of law.
+
+5.2 Notice. For contractual purposes, Licensee: (i) consent to receive communications in an
+electronic form and (ii) agree that all terms and conditions, agreements, notices, documents,
+disclosures, and other communications (“Communications”) that the Company provides to Licensee
+electronically satisfy any legal requirement that such Communications would satisfy if they were in
+writing. Licensee's consent to receive Communications and do business electronically, and Company
+agreement to do so, applies to all of Licensee's interactions and transactions under this License.
+
+5.3 Waiver. The failure of either party to insist upon or enforce strict performance by the other 
+party of any provision of this License or to exercise any right under this License will not be 
+construed as a waiver of such party's right to assert or rely upon any such provision or right in 
+that or any other instance; rather, the same will be and remain in full force and effect.
+
+5.4 Assignment. Neither party may assign this License or any right, interest or benefit hereunder 
+without the prior written consent of the other party, not to be unreasonably withheld. Any 
+assignment in violation of the foregoing will be null and void.
+
+5.5 Entire Agreement. This License is the final, complete and exclusive agreement of the parties 
+with respect to the subject matter hereof and supersedes and merges all prior discussions between 
+the parties with respect thereto.
+
+5.6 Amendment. Licensee's rights and obligations under this License may be amended or modified from
+time to time and at any time. If any such amendment or modification is material, The Company will
+post notice of it on the Company’s website or by email to licensed users. Licensee's access of the
+Company’s website and use of the Data following any such amendment or modification shall be deemed
+Licensee's acceptance of such amendment and modification. You agree to review this License
+periodically to be aware of such amendments and modifications.
+
+5.7 Construction. Unless otherwise specifically stated the word “including” will not be construed as
+terms of limitation, and will mean “including without limitation”.
+
+5.8 Severability. If any provision of this License will be held to be invalid, illegal or 
+nonenforceable, the validity, legality and enforceability of the remaining provisions will in no way
+be affected or impaired thereby, and the parties will substitute for the affected portion an 
+enforceable provision which closest approximates the intent and the economic effect thereof.
