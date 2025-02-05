@@ -23,7 +23,7 @@ class WaveformDataset(torch.utils.data.Dataset):
         self.root = Path(root).expanduser()
         self.rng = np.random.default_rng(seed)
         self.transform = transform
-        self.file_list = sorted(self.root.rglob('*.bin'), key=lambda p: p.stem)
+        self.file_list = sorted(self.root.rglob('*.fc32'), key=lambda p: p.stem)
 
         if len(self.file_list) == 0:
             raise FileNotFoundError("No data files found in {}".format(root))
